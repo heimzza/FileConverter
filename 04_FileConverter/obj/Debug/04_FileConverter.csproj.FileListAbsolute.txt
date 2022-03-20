@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\bin\Debug\04_FileConverter.exe.config
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\bin\Debug\04_FileConverter.exe
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\bin\Debug\04_FileConverter.pdb
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\obj\Debug\04_FileConverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\obj\Debug\04_FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\obj\Debug\04_FileConverter.exe
+C:\Users\User\source\repos\04_FileConverter\04_FileConverter\obj\Debug\04_FileConverter.pdb
